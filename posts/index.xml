@@ -6,7 +6,11 @@
     <description>Recent content in Posts on phil-schaefer.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Dec 2020 21:00:00 -0500</lastBuildDate><atom:link href="https://phil-schaefer.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Dec 2020 21:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://phil-schaefer.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>New Beginning</title>
       <link>https://phil-schaefer.com/posts/new-beginning/</link>
