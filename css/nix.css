@@ -10,7 +10,6 @@ body {
 	background-color: #fdfdfd;
 	height: 100%;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 1.5em;
 }
 
 img {
@@ -39,6 +38,8 @@ img {
 
 nav {
 	font-size: 1.5em;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
 }
 
 .dropdown-menu li {
@@ -100,6 +101,7 @@ i {
 
 .post-summary {
 	padding: 0 5px 0 5px;
+	font-size: initial;
 }
 
 .post-list-footer {
@@ -139,6 +141,7 @@ i {
 
 .footer p {
 	margin: 0 !important;
+	font-size: initial;
 }
 
 .col-centered{
@@ -154,25 +157,33 @@ td {
 	margin: 0 20px 0 20px;
 }
 
-img[src$='#center']
-{
-	    display: block;
-	        margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
-		                            whatever floats your boat, but keep the
-					                                horizontal 'auto' for this to work */
-	    /* whatever else styles you fancy here */
+/*
+ * Some font-size tweaks for smaller screens
+ */
+@media screen and (max-width: 480px) {
+	.user-social {
+		font-size: 50%;
+	}
+
+	#user-name {
+		font-size: 2em;
+	}
+
+	nav {
+		font-size: 80%;
+	}
 }
 
-img[src$='#floatleft']
-{
-	    float:left;
-	        margin: 0.7rem;      /* this margin is totally up to you */
-		    /* whatever else styles you fancy here */
-}
+@media screen and (max-width: 320px) {
+	.user-social {
+		font-size: 40%;
+	}
 
-img[src$='#floatright']
-{
-	    float:right;
-	        margin: 0.7rem;      /* this margin is totally up to you */
-		    /* whatever else styles you fancy here */
-		}
+	#user-name {
+		font-size: 2em;
+	}
+
+	nav {
+		font-size: 80%;
+	}
+}
