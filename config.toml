@@ -1,0 +1,24 @@
+baseURL = "https://phil-schaefer.com"
+languageCode = "en-us"
+title = "phil-schaefer.com"
+theme = "nix"
+publishdir = "docs"
+
+[params]
+  Name = "Phil Schaefer"
+  HeaderUsername = "phil"
+  HeaderHostname = "phil-schaefer.com"
+  About = "Scuba Diver. Tech Enthusist. Cloud Engineer."
+  ProfilePicture = "https://phil-schaefer.com/img/Phil.jpg"
+  Email = "Phil.Schaefer@protonmail.com"
+  LinkedInId = "philschaefer"
+  TwitterID = "pschaefer"
+  MastodonURL = "https://fosstodon.org/@logrus1"
+  InstagramID = "logrus1"
+  PayPalMeID = "PhillipSchaefer"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "/posts"
