@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "phil-schaefer.com"
 theme = "nix"
 publishdir = "docs"
-googleAnalytics = 'G-MCL5NW12ZN'
 
 [params]
   Name = "Phil Schaefer"
@@ -17,6 +16,7 @@ googleAnalytics = 'G-MCL5NW12ZN'
   MastodonURL = "https://fosstodon.org/@logrus1"
   InstagramID = "logrus1"
   PayPalMeID = "PhillipSchaefer"
+  googleAnalytics = "G-MCL5NW12ZN"
 
 [menu]
   [[menu.header]]
