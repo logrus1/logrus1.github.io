@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "phil-schaefer.com"
 theme = "nix"
 publishdir = "docs"
-GoogleAnalytics = 'G-MCL5NW12ZN'
+googleAnalytics = 'G-MCL5NW12ZN'
 
 [params]
   Name = "Phil Schaefer"
