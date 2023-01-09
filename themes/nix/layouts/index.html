@@ -4,9 +4,11 @@
 		<title> {{ .Site.Title }} </title>
 
 		{{ partial "head.html" . }}
+		{{ template "_internal/google_analytics.html" . }}
 
 	</head>
 	<body>
+		<a rel="me" href="https://fosstodon.org/@logrus1">Mastodon</a>
 		{{ partial "header.html" . }}
 		<div class="flex-wrapper">
 			<div class="container wrapper">
