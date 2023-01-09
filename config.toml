@@ -16,6 +16,8 @@ publishdir = "docs"
   MastodonURL = "https://fosstodon.org/@logrus1"
   InstagramID = "logrus1"
   PayPalMeID = "PhillipSchaefer"
+  GithubID = "logrus1"
+  TwitchID = "TheLogrus1"
   googleAnalytics = "G-MCL5NW12ZN"
 
 [menu]
