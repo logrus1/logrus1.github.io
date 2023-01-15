@@ -6,7 +6,7 @@ draft: false
 
 I decided to treat myself to a new mechanical keyboard.  I spend a lot of time on my computer working from home and over the last several years I've been slowly upgrading my home setup.  While my previous Corsair k55 has held up well, I have been eyeing a the daskeyboard line for several years now and was looking for something a little more satisfying to use in my current setup.  
 
-![DasKeyboard6](/static/img/DasKeyboard6Pro.jpg#Center)
+![DasKeyboard6](/img/DasKeyboard6Pro.jpg#Center)
 
 I settled on the [daskeyboard 6 professional](https://www.daskeyboard.com/daskeyboard-6-professional/) with the cherry mx blue keys.  While this is probably the most I've ever spent on a keyboard, one week in I am not regretting it.  The key action while typing is smooth and the cherry blues have a satisfying click that's sure to annoy anyone in the same room as you.  The full-NKRO is super nice and I have not had any issues when typing fast.  
 
