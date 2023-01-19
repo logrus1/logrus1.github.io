@@ -5,7 +5,7 @@ draft: true
 ---
 
 [xkcdlink]: https://xkcd.com/1597/
-[xkcdpng]: ../../img/git.png#center
+[xkcdpng]: /img/git.png#center
 
 ## Finally Getting Git
 
@@ -15,6 +15,6 @@ When I switched my concentration from Unix Engineer to Cloud Engineer, it became
 
 The focus of my day job is AWS. For better or for worse we have settled on using [AWS CloudFormation](https://aws.amazon.com/cloudformation/) for our Infrastructure as Code. Personally I think learning and using [Terraform by Hashicorp](https://www.terraform.io/) would be a better option and have gotten to play with it in other roles but it's not my decision and CloudFormation does what we need it to for how big our cloud presence is. We have hundreds of yaml files that have been used to create almost everything in our environment and working with these templates was my real first acquaintence with git.
 
-[![xkcd 1597][xkcdpng]][xkcdlink]
+[![xkcd 1597][xkcdpng]][xkcdlink]  
 
-
+It took me a while to comprehend that git was not github and that github is just one of many hosting services for git. My company uses the Atlassian suite of tools so our on-prem repos are in a locally hosted bitbucket.  When I first got started it was very much like the xkcd comic above where I memorized how to clone, commit, and push with no real understanding of what any of that meant. 
